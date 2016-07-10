@@ -1,1 +1,0 @@
-web: java -Dserver.port=$PORT -jar build/libs/portal-megaprog-0.1.0.jar
